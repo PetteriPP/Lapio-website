@@ -1,1 +1,35 @@
+* {
+    color: purple;
+}
+
 p { background-color: red; }
+.moi {
+    color: orange;
+}
+.container {
+    p {
+        background-color: white;
+    }
+    width: 200px;
+    height: 100px;
+    background-color: beige;
+    margin: auto;
+}
+
+.first-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+}
+
+.second-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+}
+
+.third-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+}
